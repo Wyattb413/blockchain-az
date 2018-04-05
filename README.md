@@ -35,6 +35,8 @@ The Immutable Ledger | [Lecture 8](#section-3-lecture-8)
 
 [**On the Secure Hash Algorithm family (Chapter 1 of Cryptography in Context)**](https://www.staff.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf)
 
+[**Live SHA256 Demo**](https://tools.superdatascience.com/blockchain/hash)
+
 - **SHA256 Hash**ing algorithm was developed by the NSA
 - **SHA** Secure Hasing Algorithm
 - **256** represents the number of bits it takes up in memory
