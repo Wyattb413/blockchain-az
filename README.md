@@ -8,9 +8,11 @@ Lecture Topic | Link
 --- | ---
 **SECTION 3** | [**Section 3**](#section-3)
 What is a Blockchain | [Lecture 6](#section-3-lecture-6)
-What is a BlockchainUnderstanding SHA256 - Hash | [Lecture 7](#section-3-lecture-7)
+What is a Blockchain Understanding SHA256 - Hash | [Lecture 7](#section-3-lecture-7)
 The Immutable Ledger | [Lecture 8](#section-3-lecture-8)
 Distrubuted P2P Network | [Lecture 9](#section-3-lecture-9)
+How Mining Works: The Nonce | [Lecture 10](#section-3-lecture-10)
+How Mining Works: The Cryptographic Puzzle | [Lecture 11](#section-3-lecture-11)
 
 <!-- ################################################################################################################ -->
 <!--                                                     SECTION 3                                                    -->
@@ -82,3 +84,18 @@ A couple of **disadvantages** of a **P2P Network** are:
 ![Distributed P2P Network Diagram](img/p2p-diagram.png?raw=true "Distributed P2P Network Diagram")
 
 In the above example, each laptop represents a **Peer** in the particular network. Each **Peer** is storing and managing their own version of the **Blockchain**.
+
+### Section 3 Lecture 10
+
+#### How Mining Works: The Nonce
+
+- A single **Block** stores multiple transactions
+- **Nonce**: Number used only once
+
+### Section 3 Lecture 11
+
+#### How Mining Works: The Cryptographic Puzzle
+
+[**The Byzantine Generals Problem**](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf) Leslie Lamport, Robert Shostak, and Marshall Pease (1982)
+
+[**Understanding Blockchain Fundamentals, Part 1: Byzantine Fault Tolerance**](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419) Georgios Konstantopoulos (2017)
